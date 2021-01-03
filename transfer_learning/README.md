@@ -1,7 +1,7 @@
 # Transfer Learning
 ## based on https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
-This is a (99.9%) based on the codes written upper
+This is a (99.9%) based on the codes written upper  
 Appreciated to Pytorch, who always make me a better man
 
 For Transfer Learning study: https://cs231n.github.io/transfer-learning/
